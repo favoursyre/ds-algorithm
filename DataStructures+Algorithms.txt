@@ -1,0 +1,5 @@
+//I want to learn Data structures and algorithm
+
+
+Data structures are building blocks of any software application
+Big O notation is used to measure how the running time or space requirements for your program grows with respect to the input size
